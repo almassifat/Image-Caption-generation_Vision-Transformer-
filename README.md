@@ -1,4 +1,4 @@
-# 🖼️➡️🇧🇩 Image-to-Bangla Caption Generation (ViT + Transformer)
+# 🖼️Image-to-Bangla Caption Generation (ViT + Transformer)
 
 This project focuses on generating **Bangla natural language captions from images** using a modern **Vision–Language Encoder–Decoder architecture**.
 
